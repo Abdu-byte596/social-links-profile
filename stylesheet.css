@@ -46,11 +46,12 @@ ul
     display: flex;
     flex-direction: column;
     gap: 16px;
+    width: 100%
 }
 li
 {
     list-style: none;
-    /* width: 286px; */
+  width: 100%;
    line-height: 1.5;
    padding: 12px;
     background-color: hsl(0, 0%, 20%);
